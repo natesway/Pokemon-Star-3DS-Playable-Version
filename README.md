@@ -1,6 +1,6 @@
 # Pokemon-Star-3DS-Playable-Version
 
-# This Is An Alpha So Only Pokemon Are In The Game
+# This Is An Alpha So Only The Pokemon Star Pokemon Are In The Game
 
 # Have You Ever Just Wanted To Play Pokemon Star On A 3DS But It Crashes All The Time? Well Here Is The 3DS Version! Its A Luma3DS Patch And I Will Leave instructions Of How To Install In The Zip File!
 
